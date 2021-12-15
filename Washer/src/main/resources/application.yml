@@ -1,0 +1,10 @@
+server:
+  port: 8003
+  
+spring:
+  data:
+    mongodb:
+      uri:  mongodb+srv://sowjanya:sowjnaya@cluster0.rwz4p.mongodb.net/Washer?retryWrites=true&w=majority
+      
+  application:
+    name: WASHER-SERVICE
